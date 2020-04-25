@@ -2,7 +2,7 @@
 
 App criado com Expo com os princípios da Técnica Pomodoro para Mulheres
 
-![](pomodoro-monica.gif)
+![](assets/pomodoro-monica.gif)
 
 ## Para Executar o projeto:
 1. Instalar expo-cli globalmente com NPM ou yarn;
